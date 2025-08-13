@@ -38,8 +38,9 @@
 - 🧬 **3D U‑Net for pancreatic tumor segmentation** — 3D augmentations, Dice/Focal, inference tooling  
 - 🔬 **PyQt5 spectrometer control** — IMCP/RS‑485 comms, real‑time plots, device status
 
+<hr style="border:0.5px solid #ccc;"/>
 
-
+## 🧰 My Core Tech Stack
 <p align="center">
   <!-- Python & AI -->
   <img src="https://skillicons.dev/icons?i=python" height="58" title="Python" />
