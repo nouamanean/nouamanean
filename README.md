@@ -6,60 +6,41 @@
 - 🧠 EEG ML pipeline (feature engineering + classifiers)
 - 🩺 3D U-Net for pancreatic tumor segmentation
 
-## 🧰 Toolbox
+## 🧰 My Core Tech Stack
 
-<!-- ======== ICON GRID (modern look) ======== -->
+<!-- ===== ICON GRID (Focus Python & AI) ===== -->
 <p align="center">
-  <!-- Core Web -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" height="48" />
-  &nbsp;&nbsp;&nbsp;
-  <!-- Python & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=python" height="48" />
-  <img src="https://skillicons.dev/icons?i=django" height="48" />
-  &nbsp;&nbsp;&nbsp;
-  <!-- AI/ML -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="48" />
-  &nbsp;&nbsp;&nbsp;
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git" height="48" />
+  <!-- Python & AI -->
+  <img src="https://skillicons.dev/icons?i=python" height="58" title="Python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="58" title="PyTorch" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="58" title="TensorFlow" />
+  <img src="https://simpleitk.org/wp-content/uploads/2020/03/SimpleITK-Logo-Only-300x300.png" height="58" title="SimpleITK" />
+  <!-- Med Imaging -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/MeVisLab_Logo.png" height="58" title="MeVisLab" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/ImageJ_logo.png" height="58" title="ImageJ" />
+  <img src="https://www.paraview.org/wp-content/uploads/2015/10/ParaView-Logo-300x300.png" height="58" title="ParaView" />
 </p>
 
-<!-- ======== TAGS / BADGES (clean & readable) ======== -->
+<!-- ===== BADGES (Highlight Skills) ===== -->
 <p align="center">
-  <!-- Web -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <br/>
-  <!-- Python / AI -->
   <img src="https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/SimpleITK-imaging-2D6DB6" />
-  <br/>
-  <!-- Med-Image / Viz -->
   <img src="https://img.shields.io/badge/MeVisLab-medimg-3A7CA5" />
   <img src="https://img.shields.io/badge/ImageJ-medimg-FF9900" />
   <img src="https://img.shields.io/badge/ParaView-visualization-306998" />
   <img src="https://img.shields.io/badge/CAD--Systeme-Design-lightgrey" />
-  <br/>
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 </p>
 
-<!-- ======== OPTIONAL: compact text version (collapsible) ======== -->
+<!-- ===== OPTIONAL: Web Dev (Hidden in details) ===== -->
 <details>
-  <summary><b>Compact view</b></summary>
-
-**Web:** HTML, CSS, JavaScript, PHP, MySQL  
-**Python & Frameworks:** Python, Django  
-**AI/ML:** PyTorch, TensorFlow, SimpleITK  
-**Med Imaging & Viz:** MeVisLab, ImageJ, ParaView, CAD‑Systeme  
-**Tools:** Git
+  <summary>💻 Also experienced in Web Development</summary>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,django,git" height="48" />
+  </p>
 </details>
+
 
 ## 📰 Publications & Outputs
 - **EEG-based Cognitive Task Classification**, Forschungszentrum Jülich (2024).  
