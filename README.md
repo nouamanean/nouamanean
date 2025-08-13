@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Nouamane 👋
 
-<!--
-**nouamanean/nouamanean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Biomedical engineer specialized in medical imaging and AI  
+💡 Passionate about deep learning, computer vision, and medtech projects  
+🚀 Currently: developing a 3D U-Net model for pancreatic tumor detection  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Languages**: Python, C#, C++, JavaScript
+- **AI & Data**: PyTorch, TensorFlow, SimpleITK
+- **Tools**: Git, Docker, Streamlit, MeVisLab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- [MRI Tumor Segmentation](https://github.com/Neuromancien/tumor-segmentation) – 3D U-Net model with Streamlit interface
+- [LOC-UV Spectrometer](https://github.com/Neuromancien/spectrometer) – Control and visualization software in PyQt5
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Neuromancien&show_icons=true&theme=radical)
+
+---
+📫 **Contact**: nouamane.an@gmail.com
