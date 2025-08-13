@@ -18,11 +18,10 @@
 
 ## 📰 Publications & Outputs
 - **EEG-based Cognitive Task Classification**, Forschungszentrum Jülich (2024).  
-  [Slides](#) • [Poster](#)
 ## 📊 Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=nouamanean&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nouamanean&layout=compact&langs_count=8&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nouamanean&theme=react-dark)
 
 ## 📫 Contact
 [![Email](https://img.shields.io/badge/Email-nouamane.an%40gmail.com-informational?logo=gmail)](mailto:nouamane.an@gmail.com)
