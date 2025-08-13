@@ -14,9 +14,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="58" title="PyTorch" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="58" title="TensorFlow" />
   <img src="https://raw.githubusercontent.com/SimpleITK/SimpleITK/master/Documentation/img/SimpleITK-Logo-Only.png" height="58" title="SimpleITK" />
-  <img src="https://raw.githubusercontent.com/wiki/MeVisLab/MeVisLab/MeVisLab_Logo.png" height="58" title="MeVisLab" />
-  <img src="https://imagej.nih.gov/ij/images/ImageJ-icon.png" height="58" title="ImageJ" />
-  <img src="https://www.paraview.org/wp-content/uploads/2015/10/ParaView-Logo-300x300.png" height="58" title="ParaView" />
 </p>
 
 <p align="center">
