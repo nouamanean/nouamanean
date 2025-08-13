@@ -7,21 +7,59 @@
 - 🩺 3D U-Net for pancreatic tumor segmentation
 
 ## 🧰 Toolbox
-![Python](https://img.shields.io/badge/Python-3.11-informational?logo=python)
-![Django](https://img.shields.io/badge/Django-Web%20Framework-092E20?logo=django)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
-![SimpleITK](https://img.shields.io/badge/SimpleITK-imaging-blue)
-![MeVisLab](https://img.shields.io/badge/MeVisLab-medimg-3A7CA5)
-![ImageJ](https://img.shields.io/badge/ImageJ-medimg-FF9900)
-![ParaView](https://img.shields.io/badge/ParaView-visualization-306998)
-![CAD-Systeme](https://img.shields.io/badge/CAD--Systeme-Design-lightgrey)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-versioning-F05032?logo=git)
+
+<!-- ======== ICON GRID (modern look) ======== -->
+<p align="center">
+  <!-- Core Web -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" height="48" />
+  &nbsp;&nbsp;&nbsp;
+  <!-- Python & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=python" height="48" />
+  <img src="https://skillicons.dev/icons?i=django" height="48" />
+  &nbsp;&nbsp;&nbsp;
+  <!-- AI/ML -->
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="48" />
+  &nbsp;&nbsp;&nbsp;
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git" height="48" />
+</p>
+
+<!-- ======== TAGS / BADGES (clean & readable) ======== -->
+<p align="center">
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <br/>
+  <!-- Python / AI -->
+  <img src="https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/SimpleITK-imaging-2D6DB6" />
+  <br/>
+  <!-- Med-Image / Viz -->
+  <img src="https://img.shields.io/badge/MeVisLab-medimg-3A7CA5" />
+  <img src="https://img.shields.io/badge/ImageJ-medimg-FF9900" />
+  <img src="https://img.shields.io/badge/ParaView-visualization-306998" />
+  <img src="https://img.shields.io/badge/CAD--Systeme-Design-lightgrey" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+</p>
+
+<!-- ======== OPTIONAL: compact text version (collapsible) ======== -->
+<details>
+  <summary><b>Compact view</b></summary>
+
+**Web:** HTML, CSS, JavaScript, PHP, MySQL  
+**Python & Frameworks:** Python, Django  
+**AI/ML:** PyTorch, TensorFlow, SimpleITK  
+**Med Imaging & Viz:** MeVisLab, ImageJ, ParaView, CAD‑Systeme  
+**Tools:** Git
+</details>
 
 ## 📰 Publications & Outputs
 - **EEG-based Cognitive Task Classification**, Forschungszentrum Jülich (2024).  
