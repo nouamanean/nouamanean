@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Email-nouamane.an%40gmail.com-444?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/nouamanean">
-    <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-111?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-nouamanean-111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -75,5 +75,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nouamanean&layout=compact&langs_count=8&theme=radical)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nouamanean&theme=react-dark)
 
-## 📫 Contact
-[![Email](https://img.shields.io/badge/Email-nouamane.an%40gmail.com-informational?logo=gmail)](mailto:nouamane.an@gmail.com)
