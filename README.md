@@ -13,7 +13,6 @@
   <img src="https://skillicons.dev/icons?i=python" height="58" title="Python" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="58" title="PyTorch" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="58" title="TensorFlow" />
-  <img src="https://raw.githubusercontent.com/SimpleITK/SimpleITK/master/Documentation/img/SimpleITK-Logo-Only.png" height="58" title="SimpleITK" />
 </p>
 
 <p align="center">
