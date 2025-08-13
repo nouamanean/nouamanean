@@ -1,12 +1,44 @@
-# Hi, I’m Nouamane 👋
+<!-- ===== HERO BANNER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6A00FF,100:00D1FF&text=Hi%2C%20I'm%20Nouamane%20👋&fontColor=ffffff&fontSize=48&fontAlignY=35" alt="banner"/>
+</p>
 
-🎓 Biomedical engineer specialized in medical imaging and AI  
-💡 Passionate about deep learning, computer vision, and medtech projects  
-## ✨ What I’m working on
-- 🧠 EEG ML pipeline (feature engineering + classifiers)
-- 🩺 3D U-Net for pancreatic tumor segmentation
+<!-- ===== TYPING TAGLINE ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=700&color=00D1FF&center=true&vCenter=true&width=900&lines=Biomedical+engineer+specialized+in+medical+imaging+and+AI;Deep+learning+%7C+Computer+Vision+%7C+Medtech+projects" alt="typing tagline">
+</p>
 
-## 🧰 My Core Tech Stack
+<!-- ===== QUICK FACTS / BADGES ===== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Biomedical%20Engineering-6A00FF?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20Deep%20Learning-0EA5E9?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-14b8a6?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+<!-- ===== CONTACT ===== -->
+<p align="center">
+  <a href="mailto:nouamane.an@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nouamane.an%40gmail.com-444?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nouamanean">
+    <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<!-- ===== SHORT INTRO ===== -->
+<p align="center">
+  I build AI‑powered tools for medical imaging — from EEG ML pipelines to 3D U‑Net tumor segmentation and real‑time PyQt apps for spectrometers.
+</p>
+
+<hr/>
+
+<!-- ===== WHAT I'M WORKING ON ===== -->
+### ✨ What I’m working on
+- 🧠 **EEG ML pipeline** — feature engineering, classical ML & evaluation dashboards  
+- 🧬 **3D U‑Net for pancreatic tumor segmentation** — 3D augmentations, Dice/Focal, inference tooling  
+- 🔬 **PyQt5 spectrometer control** — IMCP/RS‑485 comms, real‑time plots, device status
+
+
 
 <p align="center">
   <!-- Python & AI -->
